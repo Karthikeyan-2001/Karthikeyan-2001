@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthikeyan--j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikeyan--j/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthikeyan--j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikeyan--j/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/professionaljk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/professionaljk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/karthikeyan18122001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karthikeyan18122001/" height="30" width="40" /></a>
+<a href="https://leetcode.com/karthikeyan18122001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karthikeyan18122001/" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
