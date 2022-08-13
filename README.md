@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTHIKEYAN J</h1>
 <h3 align="center">A passionate frontend, UI/UX, SOFTWARE DEVELOPER from India</h3>
 
-![anime](https://giphy.com/gifs/snow-sword-art-online-IpSc0bp7LmGC4)
+![anime](https://media0.giphy.com/media/IpSc0bp7LmGC4/giphy.gif?cid=790b7611ca524436430fcdd369d8b2b6423359a439b59dcd&rid=giphy.gif&ct=g)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyan-2001&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeyan-2001" /> </p>
 
